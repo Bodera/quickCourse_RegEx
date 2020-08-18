@@ -1,0 +1,22 @@
+quickCourse_ReGex
+
+
+Readme:
+    - On this repo I've tried to teach about the meaning of regular expressions by providing short, real-world cases where you will be able to see how regex can be helpful.
+    - If you found this repository useful, please consider giving it a Star; Check out my other projects here.
+
+
+Lessons model:
+    - Our lesson begins ... (here I tell the user story, the real-world scenario)
+
+    - By the end of this lesson you will completely understand the meaning of the regex below:
+        ```javascript
+            (the regular expression that solves our case)
+        ```
+    - Then I go through the necessary knowledgment basis that are indispensable to finally realize how we can construct our own regular expression.
+    - Then I present a functional demo of the lesson, here is the end of the lesson.
+
+
+
+
+
